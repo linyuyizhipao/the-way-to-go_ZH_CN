@@ -1,4 +1,7 @@
 # 目录
+
+ [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
+这本书github上start还挺多，然后入门比较适合，但是总不能点击github在线看把，费劲
 - [前言](preface.md)
 
 ## 第一部分：学习 Go 语言
